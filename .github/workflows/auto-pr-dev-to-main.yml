@@ -7,7 +7,7 @@ on:
 
 # Repo Settings → Actions → Workflow permissions:
 #   - Read and write permissions
-#   - Allow GitHub Actions to create and approve pull requests
+#   - Allow GitHub Actions to create and approve pull request
 permissions:
   contents: read
   pull-requests: write
